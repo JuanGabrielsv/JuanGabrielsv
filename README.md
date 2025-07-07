@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Juan Gabriel Sánchez Vivero
+# 👋 ¡Hola! Soy Juan Gabriel Sánchez
 
 🎯 **Desarrollador Web** con experiencia previa como **Técnico en Sistemas Microinformáticos y Redes**. Apasionado por la tecnología, la música y el aprendizaje continuo.
 
