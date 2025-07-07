@@ -6,7 +6,6 @@
 
 ## 🧠 Sobre mí
 
-- 💻 Actualmente en formación como **Técnico Superior en Desarrollo de Aplicaciones Web** (CEP San Pablo, Bormujos).
 - 🔧 Experiencia práctica en desarrollo backend con **Java**, **Spring Boot** y **JHipster**.
 - 🖥️ Trayectoria previa en soporte técnico, mantenimiento de equipos, redes y administración de sistemas.
 - 🌱 En constante aprendizaje, ahora explorando más sobre **DevOps**, **Docker** y buenas prácticas de desarrollo.
