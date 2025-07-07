@@ -8,7 +8,7 @@
 
 - 🔧 Experiencia práctica en desarrollo backend con **Java**, **PHP**, **Spring Boot** y **JHipster**.
 - 🖥️ Trayectoria previa en soporte técnico, mantenimiento de equipos, redes y administración de sistemas.
-- 🌱 En constante aprendizaje, ahora explorando más sobre **DevOps**, **Docker** y buenas prácticas de desarrollo.
+- 🌱 En constante aprendizaje, ahora explorando más sobre buenas prácticas de desarrollo.
 
 ---
 
