@@ -40,7 +40,6 @@
 
 - 🌐 Web: [juangabrielsv.dev](https://juangabrielsv.dev)
 - ✉️ Email: [juangabrielsv@gmail.com](mailto:juangabrielsv@gmail.com)
-- 📍 Castilleja de la Cuesta, Sevilla
 
 ---
 
