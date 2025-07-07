@@ -28,16 +28,6 @@
 
 ---
 
-## 🚀 Algunos proyectos
-
-Aquí irían enlaces a tus repos públicos más relevantes, por ejemplo:
-
-- 🔗 [Proyecto Backend con Spring Boot](https://github.com/JuanGabrielsv/nombre-del-repo)
-- 🔗 [Mini app Angular + Node.js](https://github.com/JuanGabrielsv/nombre-del-repo)
-- 🔧 *Otros en desarrollo...*
-
----
-
 ## 🎸 Más allá del código
 
 - 🎶 Músico aficionado: toco guitarra y bajo, y compongo mis propias canciones.
