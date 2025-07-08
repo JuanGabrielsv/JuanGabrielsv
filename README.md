@@ -2,8 +2,6 @@
 
 🎯 **Desarrollador Web** con experiencia previa como **Técnico en Sistemas Microinformáticos y Redes**. Apasionado por la tecnología, la música y el aprendizaje continuo.
 
----
-
 ## 🧠 Sobre mí
 
 - 🔧 Experiencia práctica en desarrollo backend con **Java**, **PHP**, **Spring Boot** y **JHipster**.
