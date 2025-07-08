@@ -8,8 +8,6 @@
 - 🖥️ Trayectoria previa en soporte técnico, mantenimiento de equipos, redes y administración de sistemas.
 - 🌱 En constante aprendizaje, ahora explorando más sobre buenas prácticas de desarrollo.
 
----
-
 ## 🛠️ Tecnologías
 
 **Frontend:**  
@@ -24,15 +22,11 @@
 **Herramientas y metodologías:**  
 `Git` · `Docker` · `Postman` · `VS Code` · `Eclipse` · `HeidiSQL` · `Scrum` · `GitLab CI/CD`
 
----
-
 ## 🎸 Más allá del código
 
 - 🎶 Músico aficionado: toco guitarra y bajo, y compongo mis propias canciones.
 - 🎮 Gamer ocasional: disfruto los videojuegos en PC como forma de desconexión.
 - 🎬 Amante del cine, siempre listo para una buena peli en casa con amigos.
-
----
 
 ## 📫 Contacto
 
